@@ -16,3 +16,6 @@ az account set --subscription="<id_from_the_previous_command>"
 az ad sp create-for-rbac --role="Contributor" --scopes="/subscriptions/<id_from_command_one>"
 
 ```
+
+### AWS 
+1. owners id for ubuntu (canonical) is 099720109477
